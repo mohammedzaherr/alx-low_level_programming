@@ -3,9 +3,9 @@
 #include <time.h>
 
 /**
- * main -Determines if the number positive, zero or negative.
+ * main - Determines if the number positive, zero or negative.
  *
- * Return : Always 0 (Succes)
+ * Return: Always 0 (Succes)
  */
 int main(void)
 {
