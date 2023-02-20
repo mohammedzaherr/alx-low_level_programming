@@ -3,9 +3,9 @@
 #include <time.h>
 
 /**
- * main - Determines if the last digit is greater than 5, is less than 6, or is 0
+ * main - Determines if the last digit is greater than 5, less than 6, or 0
  *
- * Return - Always 0 (success)
+ * Return: Always 0 (success)
  */
 int main(void)
 {
